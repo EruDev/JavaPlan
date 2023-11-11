@@ -6,6 +6,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * CountDownLatch
+ * 主要用來解決一个线程等待多个线程的场景
+ *
  * @author pengfei.zhao
  * @date 2023/11/7 22:07
  */
